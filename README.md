@@ -1,7 +1,7 @@
 # Mentor Board
 ## Our Mission
 
-We want to create a friendly and supportive community to connect more experienced web developrs with up-and-coming- students. The Mentor Board provides a vehicle for mentors to post available times so that students can sign-up to work on current projects, coding challenges (e.g. algorithms, data structures, etc.) and ask any questions he/she might have regarding the tech industry. 
+The Mentor Board creates a friendly and supportive community to connect more experienced web developrs with up-and-coming- students. This web app provides a vehicle for mentors post their availablity so that students can sign-up to work on current projects, coding challenges (e.g. algorithms, data structures, etc.) and ask any tech-related questions he/she might have.
 
 ## Team Members
 
