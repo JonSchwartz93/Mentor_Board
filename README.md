@@ -1,9 +1,9 @@
 # Mentor Board
 ## Our Mission
 
-We want to create a friendly and supportive community to scout potential those who can help share and learn skills and talents in the way of the Force.
+We want to create a friendly and supportive community to connect more experienced web developrs with up-and-coming- students. The Mentor Board provides a vehicle for mentors to post available times so that students can sign-up to work on current projects, coding challenges (e.g. algorithms, data structures, etc.) and ask any questions he/she might have regarding the tech industry. 
 
-## Visionaries
+## Team Members
 
 #### Theo Paul
 https://github.com/theomarkkuspaul
@@ -13,29 +13,3 @@ https://github.com/noahschutte
 
 #### Jon Schwartz
 https://github.com/JonSchwartz93
-
-
-
-### Sections to include:
-
-* How to contribute
-
-* Future features
-
-* Link to the web application
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
